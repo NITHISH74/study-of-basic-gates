@@ -68,7 +68,7 @@ Y= A⊕B
  Developed by: Nithishwar S
  RegisterNumber: 212221230071
 ```
-```
+```pof
 module exp1(a,b,andgate,orgate,notgate,nandgate,norgate,xorgate,xnorgate);
 input a,b;
 output andgate,orgate,notgate,nandgate,norgate,xorgate,xnorgate;
