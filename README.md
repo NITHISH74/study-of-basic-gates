@@ -1,5 +1,5 @@
-## Exp.No: 01 - Study of basic gates
-
+# Study of basic gates
+### Exp.No: 01 
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -8,7 +8,7 @@ To study and verify the truth table of logic gates in Quartus II using Verilog p
 
 Software – Quartus prime 
 
-**Theory**
+**Theory:**
 
 Introduction Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
@@ -96,5 +96,5 @@ endmodule
 
 **Result:**
 
-Thus , the truth table of logic gates have been studied and verified in Quartus II using verilog programming.
+Thus, the truth table of logic gates have been studied and verified in Quartus II using verilog programming.
 
