@@ -1,4 +1,4 @@
-## Study-of-basic-gates
+## Exp.No: 01 - Study of basic gates
 
 **AIM:** 
 
